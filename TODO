@@ -1,0 +1,6 @@
+TODO:
+
+1. web page for running command
+2. server (flask) to route commands
+3. server ssh to device on network
+
